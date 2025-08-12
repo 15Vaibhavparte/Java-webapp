@@ -11,7 +11,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Welcome to DevOps(CI/CD pipeline) Introduction!</h1>
+        <h1>Welcome to DevOps Introduction!</h1>
         <div class="highlight">
             <h2>About This Project</h2>
             <p>This is a simple Java web application showcasing DevOps concepts and practices.</p>
