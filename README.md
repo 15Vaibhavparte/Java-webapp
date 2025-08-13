@@ -124,7 +124,6 @@ To replicate this project:
 ---
 
 ### **Video of Workflow**
-- `assets/video/pipeline_demo.mp4` or `assets/video/pipeline_demo.gif` – Demonstrates:
 https://github.com/user-attachments/assets/9ae04a69-59bc-49d9-a3dc-333601fae285
 
 
